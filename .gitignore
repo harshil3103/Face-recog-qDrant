@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (VERY IMPORTANT)
+data/
+*.jpg
+*.png
+*.mp4
+*.tgz
+
+# Models
+*.onnx
+
+# Mac
+.DS_Store
+
+# Env
+venv/
