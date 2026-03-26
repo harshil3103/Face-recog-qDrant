@@ -3,7 +3,7 @@ QDRANT_PORT = 6333
 
 COLLECTION_NAME = "faces"
 
-VIDEO_PATH = "/Users/parthsharma/qdrantjio/data/video2.mp4"  
+VIDEO_PATH = "Enter File Path"  
 FRAMES_PATH = "data/frames/"
             
 
